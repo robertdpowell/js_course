@@ -62,7 +62,7 @@ function loadQuiz() {
   d_text.innerText = currentQuizData.d;
 }
 // this function scans all of the answers to see which one is checked.
-// when it finds a checked answer, it returns it as the answer..
+// when it finds a checked answer, it returns it as the answer...
 function getSelected() {
   let answer = undefined;
 
